@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Renata Karpenko
+**Starting data scientist**
 <!--
 **renatakarpenko3/renatakarpenko3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
